@@ -16,6 +16,7 @@ RUN set -ex \
     && apk upgrade \
     && apk add --no-cache \
     bash \
+    curl \
     kafkacat \
     tcptraceroute \
     tcpdump \

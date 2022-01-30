@@ -52,6 +52,8 @@ get_termshark() {
 }
 
 get_gosqlcheck() {
-
+  echo ""
 }
+#get_ctop
+#get_calicoctl
 get_termshark
